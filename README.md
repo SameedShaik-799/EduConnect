@@ -390,11 +390,7 @@ start-all.bat
 
 ---
 
-## Attendance Management
 
-![Attendance](screenshots/attendance.png)
-
----
 
 ## Student Records
 
